@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Enable or disable multi-user UI -->
+    <bool name="config_enableMultiUserUI">true</bool>
+
+    <!-- Set maximum number of users -->
+    <integer name="config_multiuserMaximumUsers">10</integer>
+
+    <!-- Set max number of concurrently running users -->
+    <integer name="config_multiuserMaxRunningUsers">9</integer>
+
+    <!-- Disable the user switcher -->
+    <bool name="config_showUserSwitcherByDefault">false</bool>
+</resources>
